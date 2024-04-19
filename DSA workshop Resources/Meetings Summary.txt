@@ -1,0 +1,353 @@
+https://tldv.io/app/meetings/66211088c943dd0012e0fa07/
+
+tl;dv: 4/18/2024-Meeting
+
+Interview Preparation Roadmap
+Outlines the topics and roadmap that will be covered to help students prepare for interviews.
+
+Next Steps: Discusses the goals and agenda for the session including providing an interview preparation roadmap. 13:03
+
+Next Steps: Will provide the first step of the interview preparation roadmap to help students start their preparation. 15:37
+
+
+Sample Interview Questions
+Will discuss sample programming and DSA questions that may be asked in interviews and how to approach answering them.
+
+Ideas: Will explain how sample technical questions can help assess a candidate and how to present the answers. 14:08
+
+Ideas: Topics discussed will focus on preparing for interviews, including sample questions. 15:02
+
+
+Industry Expectations for Freshers
+Discuss the expectations from freshers joining companies like Amazon including coding skills required.
+
+General Information: Explains that coding is just a small part of the project lifecycle but design and analysis are more important. Covers the software development lifecycle. 16:14
+
+General Information: Once a project is received, the first steps are requirement analysis, high level design, then low level design before development. 17:09
+
+
+Coding Interview Process Overview
+An overview of the coding interview process including rounds, expectations, and skills evaluated.
+
+General Information: Discusses the generic interview process including aptitude/coding rounds and technical and behavioral interviews. 27:27
+
+General Information: Explains the expectations for the coding round including practicing coding daily on sites like LeetCode. 28:01
+
+General Information: Outlines the interview rounds including minimum of two technical rounds evaluating coding, DSA, and problem solving skills. 28:38
+
+
+Skills Evaluated in Coding Interviews
+The technical skills like coding, DSA, problem solving, and core subjects that are evaluated in coding interviews.
+
+Next Steps: Covers problem solving skills like breaking problems down into smaller pieces. 31:09
+
+Next Steps: Discusses building a foundation in basic coding languages like C++, Java, or Python. 35:41
+
+Next Steps: Explains preparing for DSA by understanding time/space complexity and key data structures. 38:59
+
+
+Preparation Roadmap
+A suggested roadmap for preparing the necessary technical skills over college years leading up to interviews.
+
+Open Questions: Recommends focusing on coding foundations in the first year of college. 37:38
+
+Open Questions: Notes it will be more difficult to prepare all skills in the last year if not started earlier. 38:15
+
+Open Questions: Discusses creating a preparation timeline tailored to individual needs and pace. 39:51
+
+
+Data Structures and Algorithms Preparation
+Discussing preparation strategies for data structures and algorithms interview questions.
+
+General Information: Discussing preparing for array problems and becoming confident in solving them. 40:21
+
+General Information: Mentioning other common DSA topics like sorting algorithms, binary search, 2D matrices, linked lists, two pointer questions. 41:02
+
+General Information: Listing more data structures to study like stacks, queues, heaps, graphs, strings, dynamic programming, tries. 41:45
+
+
+Project Preparation
+Guidance on preparing project experiences for interviews.
+
+General Information: Discussing the importance of projects done during college and being able to explain them well in interviews. 44:37
+
+General Information: Advice to be involved in projects to be able to answer technical questions about them. 45:07
+
+General Information: Emphasizing the need to understand each part of projects to discuss them confidently. 45:20
+
+
+Resume Preparation
+Tips for building an effective resume.
+
+General Information: Highlighting resume building as an important interview topic and components to include. 47:50
+
+General Information: Advising to have a basic resume template with sections like objectives, skills, projects, etc. 48:02
+
+General Information: Suggesting to have others review the resume from an outsider's perspective. 50:02
+
+
+Example of Explaining a Project
+Walkthrough of how to discuss a college project experience in an interview.
+
+Ideas: Describing a mobile app project created for automating course attendance tracking. 52:51
+
+Ideas: Explaining the problem the project solved and its impact. 53:52
+
+Next Steps: Advice on driving the interview by the project discussed and being prepared to discuss it further. 58:27
+
+
+Job Application Process
+How to search for jobs, apply directly or through referrals, and prepare for coding rounds.
+
+General Information: Discussing how to search company careers pages and apply directly for jobs, as well as using referrals on LinkedIn. 01:00:42
+
+Next Steps: The importance of practicing coding problems daily to prepare for coding rounds during interviews. 01:04:40
+
+
+During Interviews
+Best practices during technical interviews such as honesty and time/space complexity.
+
+General Information: What interviewers evaluate in online coding assessments like correctness, test cases, time and space complexity. 01:05:08
+
+Ideas: The importance of honest practices and not using unfair means during interviews. 01:06:46
+
+
+Interview Preparation
+Tips for preparing for technical interviews such as following a study roadmap and practicing daily.
+
+Next Steps: Creating a study roadmap and course to follow each day, revising topics regularly. 01:09:01
+
+Next Steps: The importance of daily coding practice to stay sharp for interviews. 01:11:16
+
+------------------------------------------------------------Part2-------------------------------------------------------------------------
+
+
+https://tldv.io/app/meetings/662121ff274cab0013ea2977/
+
+tl;dv: 4/18/2024-Meeting
+
+Missing Number Problem
+Explanation of the problem to find the missing number in a given array.
+
+General Information: Introduction of the problem to find the missing number from a given array where the numbers are in the range of 1 to N but one number is missing. 00:53
+
+General Information: Clarification that the task is to find the missing number from the first 10 integers if they are given in the range of 1 to N. 01:15
+
+
+Example Explanations
+Worked examples to demonstrate finding the missing number in sample arrays.
+
+General Information: First example array given with numbers from 1 to 8 except 5. 5 identified as the missing number. 02:28
+
+General Information: Second example array given with numbers from 1 to 5 except 4. 4 identified as the missing number. 04:19
+
+
+Proposed Algorithm
+Explanation of the brute force algorithm to solve the problem by creating a visited array.
+
+General Information: Overview of the brute force approach to solve the problem by creating an array to mark visited numbers. 05:01
+
+General Information: Detailed steps of the algorithm including creating arrays to mark visited numbers and returning the missing number. 06:03
+
+
+Pseudocode
+Pseudocode written in C++ to implement the proposed brute force algorithm.
+
+Next Steps: Beginning to write the pseudocode in C++ to implement the brute force algorithm. 09:26
+
+Next Steps: Completion of the pseudocode in C++ to find the missing number using the brute force approach. 17:18
+
+
+Time and Space Complexity Analysis
+Discussion of the time and space complexity of the brute force algorithm.
+
+Open Questions: Introduction to analyzing the time and space complexity of the brute force algorithm. 18:09
+
+Open Questions: Summary that the time complexity is O(N) as each loop iterates over N elements and the space complexity is O(N) for the visited array. 19:48
+
+
+Time and Space Complexity Analysis
+Discussing analyzing algorithms for time and space complexity using Big O notation.
+
+General Information: Analyzing a for loop that iterates from 0 to n and takes n time. Accessing an array element takes constant time. 20:04
+
+General Information: This brute force solution has time complexity of O(n) as the for loops each iterate n times. Space complexity is O(n) due to the extra visited array. 27:16
+
+
+Optimizing the Solution
+Discussing a second approach that reduces the space complexity to O(1).
+
+General Information: Presenting a second approach that sums the expected total and actual sums to find the missing number without extra space. 28:00
+
+General Information: This second approach still has O(n) time complexity but reduces space complexity to O(1) using only constant extra space. 36:48
+
+
+Further Optimization
+Discussing using a formula to calculate the sum to further optimize the time complexity.
+
+General Information: The first approach can be further optimized by using a formula to calculate the sum instead of a for loop to reduce time complexity. 37:48
+
+
+Presenting Solutions to Interviewer
+How to present multiple optimized solutions to impress the interviewer.
+
+Next Steps: Present all approaches from brute force to optimized to show continually improving the solution. 38:44
+
+
+Matrix Search Problem
+Given a sorted matrix, find if target element is present using different approaches.
+
+General Information: Introduces the problem of searching a target element in a sorted matrix and discusses brute force linear search solution. 40:06
+
+Next Steps: Discusses improving brute force solution by using property that rows and columns are sorted to eliminate rows. 43:11
+
+Next Steps: Proposes using binary search within each row to improve time complexity from O(N^2) to O(NlogN). 49:52
+
+Open Questions: Asks if linear time O(N) solution is possible by fully utilizing both row and column sorted properties. 57:02
+
+
+Linear Time Matrix Search Solution
+Optimized solution that searches matrix in linear time O(N) by traversing from top-right corner.
+
+General Information: Introduces linear time solution approach of traversing matrix from top-right corner choosing to move left or down based on target element. 58:31
+
+Next Steps: Explains that columns can be eliminated by moving left if target is less than current element due to row and column sorting. 59:49
+
+
+Binary Search Algorithm Explanation
+Explains the binary search algorithm to find an element in a sorted array.
+
+General Information: Explains how to use binary search to find an element in a sorted array by checking if the target element is greater than or less than the middle element at each step and moving left or right accordingly. 01:00:07
+
+General Information: Discusses that when at the last element, you only need to check if the target is above or below to move left or down. 01:02:09
+
+
+Time Complexity Analysis
+Analyzes the time complexity of different approaches to solving the problem.
+
+General Information: Analyzes the time complexity of the binary search approach as O(log n) compared to a brute force approach of O(n^2). 01:05:33
+
+
+Pseudocode Implementation
+Requests and discusses writing pseudocode to implement the binary search algorithm.
+
+Next Steps: Requests to write pseudocode for the binary search logic discussed. 01:08:48
+
+
+-------------------------------------------------------------Part3------------------------------------------------------------------------
+
+https://tldv.io/app/meetings/662133366692400013ebc87b/
+
+tl;dv: 4/18/2024-Meeting
+
+Binary Search Algorithm
+Discussion of the logic and pseudocode for implementing binary search on a 2D matrix.
+
+General Information: Introduction to the problem of searching for a key in a row-wise and column-wise sorted 2D matrix using binary search. 00:57
+
+Ideas: Explanation of why starting search from the top-right or bottom-left elements is optimal for this problem. 11:06
+
+Open Questions: Further clarification on starting search from bottom-left element as an alternative approach. 13:38
+
+
+Pseudocode Implementation
+Step-by-step walkthrough of writing the pseudocode to implement the binary search algorithm.
+
+Next Steps: Beginning to write the pseudocode, including initializing variables and checking for a match. 03:06
+
+Next Steps: Logic for checking if the key is equal to the element, and returning if found. 04:03
+
+Next Steps: Logic for moving left/down based on whether the key is less than/greater than the element. 04:48
+
+
+Additional Considerations
+Edge cases and optimizations that can be added to the pseudocode implementation.
+
+Ideas: Adding checks to return early if the key is less than the minimum or greater than the maximum element. 07:48
+
+Ideas: Explanation of why certain elements like the middle cannot be used to start the search. 12:00
+
+
+Coding Roadmap for Beginners
+Discussion around the recommended roadmap for beginners to learn coding including starting with C++/Java and solving easy questions first.
+
+General Information: Recommends starting with C++/Java and practicing additions/subtractions to build familiarity before moving onto harder concepts. 20:03
+
+General Information: Emphasizes focusing on easy questions first before moving to medium/hard ones to strengthen basics and build confidence. 23:08
+
+
+Dealing with Rejection and Building Confidence
+Advice on not getting discouraged from rejections and focusing on self-improvement through practice.
+
+Open Questions: Shares a personal experience of getting rejected after solving coding questions quickly but landing a better opportunity later to emphasize keeping morale up. 25:02
+
+General Information: Recommends comparing your progress to yourself over time rather than others to stay motivated. 38:03
+
+
+Getting Internship Opportunities
+Tips shared around when to apply for internships, how to find opportunities, and typical salary ranges.
+
+Next Steps: Recommends starting to apply for internships from 3rd year and checking company websites/portals for eligibility requirements and application windows. 27:37
+
+General Information: Provides salary range for internships between 20k-2L depending on company and duration. 29:20
+
+
+Maximum Subarray Problem
+Problem to find the continuous subarray with the largest sum in a given array containing positive and negative numbers.
+
+General Information: Introduction to the maximum subarray problem where the task is to find the continuous subarray (or subsequence) with the largest sum in a given array. 40:51
+
+General Information: Further explanation of the problem including that negatives are allowed in the array. 41:03
+
+General Information: Clarification that a 'subarray' refers to a contiguous part of the main array. 41:09
+
+General Information: The goal is to find the subarray with the largest sum. 41:14
+
+
+Non-Technical Background and Coding
+Discussion around opportunities for non-technical background students to learn coding and find jobs with experience.
+
+Open Questions: Question asked about opportunities for non-technical background students to learn coding. 42:09
+
+Next Steps: Advice to gain experience at startups first and then opportunities at product companies open up with experience. 43:30
+
+General Information: Companies focus more on the degree than technical/non-technical background after gaining experience. 43:45
+
+
+Approaches to Maximum Subarray Problem
+Discussion of brute force and optimized approaches like Kadane's algorithm to solve the maximum subarray problem.
+
+Next Steps: Instructions to try a brute force solution and optimized solution like Kadane's algorithm for the maximum subarray problem. 44:29
+
+Next Steps: Mention of Kadane's algorithm and sliding window concept as optimized approaches to solve the maximum subarray problem. 44:43
+
+
+Two Sum Problem
+Problem to check if any two elements in a given array sum to a given target sum.
+
+General Information: Introduction to another problem of checking if any two elements in a given array sum to a given target sum. 44:53
+
+General Information: Clarification that the task is to check if any two elements in the input array form the given sum. 45:08
+
+Open Questions: Instruction to try different solutions like using a hash map or directly using the array. 45:16
+
+
+Time Complexity Analysis
+Discussion around big O notation, worst case complexity and ignoring constant factors in time complexity analysis.
+
+Open Questions: Question asked about time complexity analysis and big O notation. 46:10
+
+General Information: Explanation that time complexity focuses on how the running time grows with respect to the input size n - whether it is linear, exponential etc. 46:56
+
+General Information: Details on ignoring small constant factors like +/- 1 in time complexity and focusing on the asymptotic growth rate. 47:49
+
+
+Importance of Asking Questions
+Encouragement given to students to freely ask questions without hesitation for their own learning and advantage.
+
+General Information: Appreciation shown for initiative in asking a question that was unclear for a long time. 48:48
+
+General Information: Reassurance that there is nothing to hesitate about in asking questions for one's own understanding. 49:03
+
+General Information: Emphasis that asking questions is only advantageous for students' learning and understanding. 49:38
+
